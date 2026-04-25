@@ -37,7 +37,7 @@ This enables:
 
 ## 🛠️ How it was done
 
-The analysis uses a clinical dataset of 462 patients with features such as age, cholesterol (LDL), blood pressure (SBP), tobacco usage, and family history :contentReference[oaicite:0]{index=0}.
+The analysis uses a clinical dataset of 462 patients with features such as age, cholesterol (LDL), blood pressure (SBP), tobacco usage, and family history.
 
 Exploratory analysis revealed strong skewness and outliers in variables like tobacco and alcohol, which were retained to preserve real-world risk patterns. Feature relationships showed that age, tobacco, and LDL were key predictors of heart disease.
 
